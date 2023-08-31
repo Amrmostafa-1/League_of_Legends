@@ -27,3 +27,6 @@ This project aims to do just that. It's an open invitation to explore, analyze, 
 - **Ban Rate for Champions**: Rates at which different champions are banned.
 - **Win Rate for Champions**: Win-loss statistics for each champion.
 
+Game dataset from kaggle:
+(LoL) League of Legends Ranked Game
+https://www.kaggle.com/datasets/datasnaek/league-of-legends
